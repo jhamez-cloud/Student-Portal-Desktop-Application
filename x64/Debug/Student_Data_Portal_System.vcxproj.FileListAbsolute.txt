@@ -1,0 +1,8 @@
+C:\Users\pirate_King\Desktop\CODES\App Dev\C++ GUI\Projects\Student_Data_Portal_System\Student_Data_Portal_System\x64\Debug\Student_Data_Portal_System.vcxproj.AssemblyReference.cache
+C:\Users\pirate_King\Desktop\CODES\App Dev\C++ GUI\Projects\Student_Data_Portal_System\Student_Data_Portal_System\x64\Debug\StudentDataPortalSystem.Dashboard.resources
+C:\Users\pirate_King\Desktop\CODES\App Dev\C++ GUI\Projects\Student_Data_Portal_System\Student_Data_Portal_System\x64\Debug\Student_Data_Portal_System.vcxproj.GenerateResource.cache
+C:\Users\pirate_King\Desktop\CODES\App Dev\C++ GUI\Projects\Student_Data_Portal_System\Student_Data_Portal_System\x64\Debug\StudentDataPortalSystem.StudentLogin.resources
+C:\Users\pirate_King\Desktop\CODES\App Dev\C++ GUI\Projects\Student_Data_Portal_System\Student_Data_Portal_System\x64\Debug\StudentDataPortalSystem.AdminLogin.resources
+C:\Users\pirate_King\Desktop\CODES\App Dev\C++ GUI\Projects\Student_Data_Portal_System\Student_Data_Portal_System\x64\Debug\StudentDataPortalSystem.StudentDashboard.resources
+C:\Users\pirate_King\Desktop\CODES\App Dev\C++ GUI\Projects\Student_Data_Portal_System\Student_Data_Portal_System\x64\Debug\StudentDataPortalSystem.AdminDashboard.resources
+C:\Users\pirate_King\Desktop\CODES\App Dev\C++ GUI\Projects\Student_Data_Portal_System\Student_Data_Portal_System\x64\Debug\StudentDataPortalSystem.test.resources
